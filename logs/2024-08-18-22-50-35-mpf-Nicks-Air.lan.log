@@ -1,0 +1,155 @@
+2024-08-18 22:50:35,448 : INFO : root : Loading config.
+2024-08-18 22:50:35,450 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2024-08-18 22:50:35,450 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c166cef8060ffee16a35821bf698da85.mpf_cache
+2024-08-18 22:50:35,478 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6b31c5ac6ecbad948994a8204ea6b05b.mpf_cache
+2024-08-18 22:50:35,478 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/fe612d1e66c8a96c19ba449d3748eeac.mpf_cache
+2024-08-18 22:50:35,479 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6b31c5ac6ecbad948994a8204ea6b05b.mpf_cache
+2024-08-18 22:50:35,479 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/8765227693ecd961e0504502a81255e0.mpf_cache
+2024-08-18 22:50:35,479 : WARNING : ConfigProcessor : Config file in cache changed: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/base/config/base.yaml
+2024-08-18 22:50:35,479 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/base/config/base.yaml.
+2024-08-18 22:50:35,483 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/base/config/base.yaml
+2024-08-18 22:50:35,484 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/b247728c74b4d81bcb2825e2b07062a7.mpf_cache
+2024-08-18 22:50:35,484 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/f240f94f0b5d0f37ec4fd7571275a101.mpf_cache
+2024-08-18 22:50:35,484 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c4409acfdf3ec94666e0adef48d55400.mpf_cache
+2024-08-18 22:50:35,485 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6a2f50ed892485825cc04dc0a68eab9f.mpf_cache
+2024-08-18 22:50:35,485 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/d58c58eb9fd1a2dc27f8acd255fb3761.mpf_cache
+2024-08-18 22:50:35,485 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/07adfd310b3ef0e03c5cbc91527abb6c.mpf_cache
+2024-08-18 22:50:35,485 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/12bd5247c3bf989b919364bdb7829769.mpf_cache
+2024-08-18 22:50:35,485 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/362e08f51a1a1b7a0809dd52f9c83f83.mpf_cache
+2024-08-18 22:50:35,486 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/e45e3bd39557ed8d0881194a7afab8f7.mpf_cache
+2024-08-18 22:50:35,486 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/331d8d1a1bc190cae8c13495e1db372f.mpf_cache
+2024-08-18 22:50:35,486 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/d17a9ff77386e6f1439d0802ace1de07.mpf_cache
+2024-08-18 22:50:35,487 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/280fd64455d0d243a54ab4db98fbccbd.mpf_cache
+2024-08-18 22:50:35,487 : WARNING : ConfigProcessor : Config file in cache changed: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/mission_select/config/mission_select.yaml
+2024-08-18 22:50:35,487 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/mission_select/config/mission_select.yaml.
+2024-08-18 22:50:35,488 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/mission_select/config/mission_select.yaml
+2024-08-18 22:50:35,488 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/0c0596ed8fbb40b6113901d21bdc0a39.mpf_cache
+2024-08-18 22:50:35,489 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/f521a0f834965d73920394ccceaa3c1c.mpf_cache
+2024-08-18 22:50:35,489 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/0fedc249e142fba0aaf46d9adc7061fa.mpf_cache
+2024-08-18 22:50:35,489 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c57745b2fe399992c4aedf0209f8acc9.mpf_cache
+2024-08-18 22:50:35,489 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/4d7707f845442344c77faa09114dd414.mpf_cache
+2024-08-18 22:50:35,489 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/13b622eeb34cc558f4c171e6faf49f20.mpf_cache
+2024-08-18 22:50:35,490 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/3048ed2d7ea14eee3db896f6760aa474.mpf_cache
+2024-08-18 22:50:35,490 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/a14a120665a0ee9fd8a6e22274033983.mpf_cache
+2024-08-18 22:50:35,491 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/984de704eb69e43ca43e84d7915bfa21.mpf_cache
+2024-08-18 22:50:35,491 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/0a9cb7260d26760274024f443d38cc22.mpf_cache
+2024-08-18 22:50:35,491 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/deb753c2acdccb3c49ddc8f2a7e04ee6.mpf_cache
+2024-08-18 22:50:35,492 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/4a90c06755c4a5beef2ee4c243f54397.mpf_cache
+2024-08-18 22:50:35,492 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev1
+2024-08-18 22:50:35,492 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs/2024-08-18-22-50-35-mpf-Nicks-Air.lan.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None, 'no_sound': False, 'full_logfile_path': '/Users/nicktaseris/Desktop/Pinball/KOTH/logs/2024-08-18-22-50-35-mpf-Nicks-Air.lan.log'}
+2024-08-18 22:50:35,492 : INFO : Machine : MPF path: /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf
+2024-08-18 22:50:35,492 : INFO : Machine : Machine path: /Users/nicktaseris/Desktop/Pinball/KOTH
+2024-08-18 22:50:35,492 : INFO : Machine : Platform: darwin
+2024-08-18 22:50:35,492 : INFO : Machine : Python executable location: /Users/nicktaseris/mpfenv/bin/python3
+2024-08-18 22:50:35,492 : INFO : Machine : Python version: 3.9.13 (64-bit)
+2024-08-18 22:50:35,493 : INFO : Machine : Initializing MPF...
+2024-08-18 22:50:35,519 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,530 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,530 : INFO : EventManager : Event: ======'machine_var_player1_score'====== Args={'value': 175300, 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,530 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev1', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,530 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev1, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,530 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.9.13', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,540 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'macOS-12.1-arm64-arm-64bit', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,541 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Darwin', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,541 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '21.2.0', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,541 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': 'Darwin Kernel Version 21.2.0: Sun Nov 28 20:29:10 PST 2021; root:xnu-8019.61.5~1/RELEASE_ARM64_T8101', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,541 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'arm64', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,541 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': '/Users/nicktaseris/Desktop/Pinball/KOTH/logs/2024-08-18-22-50-35-mpf-Nicks-Air.lan.log', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,541 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2024-08-18 22:50:35,561 : INFO : EventManager : Event: ======'drop_target_bank_strickland_bank_up'====== Args={}
+2024-08-18 22:50:35,561 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2024-08-18 22:50:35,562 : INFO : SwitchController : Found active switch: ('39', <Platform.SmartVirtual>) <switch.s_trough1>
+2024-08-18 22:50:35,562 : INFO : SwitchController : Found active switch: ('40', <Platform.SmartVirtual>) <switch.s_trough2>
+2024-08-18 22:50:35,562 : INFO : SwitchController : Found active switch: ('41', <Platform.SmartVirtual>) <switch.s_trough3>
+2024-08-18 22:50:35,562 : INFO : SwitchController : Found active switch: ('42', <Platform.SmartVirtual>) <switch.s_trough4>
+2024-08-18 22:50:35,562 : INFO : SwitchController : Found active switch: ('43', <Platform.SmartVirtual>) <switch.s_trough5>
+2024-08-18 22:50:35,562 : INFO : SwitchController : Found active switch: ('44', <Platform.SmartVirtual>) <switch.s_trough6>
+2024-08-18 22:50:35,566 : INFO : EventManager : Event: ======'machine_var_score1_label'====== Args={'value': 'GRAND CHAMPION', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,566 : INFO : EventManager : Event: ======'machine_var_score1_name'====== Args={'value': 'BRI', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,566 : INFO : EventManager : Event: ======'machine_var_score1_value'====== Args={'value': 4242, 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score2_label'====== Args={'value': 'HIGH SCORE 1', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score2_name'====== Args={'value': 'GHK', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score2_value'====== Args={'value': 2323, 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score3_label'====== Args={'value': 'HIGH SCORE 2', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score3_name'====== Args={'value': 'JK', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score3_value'====== Args={'value': 1337, 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score4_label'====== Args={'value': 'HIGH SCORE 3', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score4_name'====== Args={'value': 'QC', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score4_value'====== Args={'value': 42, 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score5_label'====== Args={'value': 'HIGH SCORE 4', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score5_name'====== Args={'value': 'MPF', 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : INFO : EventManager : Event: ======'machine_var_score5_value'====== Args={'value': 23, 'prev_value': None, 'change': True}
+2024-08-18 22:50:35,567 : ERROR : asyncio : Exception in callback EventManager._queue_task_done(<Task finishe....completed"')>)
+handle: <Handle EventManager._queue_task_done(<Task finishe....completed"')>)>
+Traceback (most recent call last):
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/placeholder_manager.py", line 667, in _parse_template
+    return ast.parse(template_str, mode='eval').body
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+  File "<unknown>", line 1
+    {device.accruals.bill_mini_wizard_qualified.completed
+                                                        ^
+SyntaxError: unexpected EOF while parsing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py", line 795, in _queue_task_done
+    future.result()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py", line 708, in _run_handlers_sequential
+    handler.callback(queue=queue, **merged_kwargs)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/mode_controller.py", line 107, in initialize_modes
+    mode.initialize_mode()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/mode.py", line 555, in initialize_mode
+    self.mode_init()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/carousel/code/carousel.py", line 35, in mode_init
+    placeholder = self.machine.placeholder_manager.parse_conditional_template(item)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/placeholder_manager.py", line 895, in parse_conditional_template
+    match_dict['condition'] = self.build_bool_template(match_dict['condition'])
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/placeholder_manager.py", line 826, in build_bool_template
+    return BoolTemplate(self._parse_template(template_str), template_str, self, default_value)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/placeholder_manager.py", line 669, in _parse_template
+    raise AssertionError('Failed to parse template "{}"'.format(template_str))
+AssertionError: Failed to parse template "{device.accruals.bill_mini_wizard_qualified.completed"
+2024-08-18 22:50:35,570 : INFO : Machine : Starting the main run loop.
+2024-08-18 22:50:35,570 : INFO : Machine : Shutting down...
+2024-08-18 22:50:35,570 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2024-08-18 22:50:36,572 : ERROR : Machine : Runtime Exception
+Traceback (most recent call last):
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/placeholder_manager.py", line 667, in _parse_template
+    return ast.parse(template_str, mode='eval').body
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+  File "<unknown>", line 1
+    {device.accruals.bill_mini_wizard_qualified.completed
+                                                        ^
+SyntaxError: unexpected EOF while parsing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/machine.py", line 793, in _run_loop
+    raise self._exception['exception']
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py", line 795, in _queue_task_done
+    future.result()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py", line 708, in _run_handlers_sequential
+    handler.callback(queue=queue, **merged_kwargs)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/mode_controller.py", line 107, in initialize_modes
+    mode.initialize_mode()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/mode.py", line 555, in initialize_mode
+    self.mode_init()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/carousel/code/carousel.py", line 35, in mode_init
+    placeholder = self.machine.placeholder_manager.parse_conditional_template(item)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/placeholder_manager.py", line 895, in parse_conditional_template
+    match_dict['condition'] = self.build_bool_template(match_dict['condition'])
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/placeholder_manager.py", line 826, in build_bool_template
+    return BoolTemplate(self._parse_template(template_str), template_str, self, default_value)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/placeholder_manager.py", line 669, in _parse_template
+    raise AssertionError('Failed to parse template "{}"'.format(template_str))
+AssertionError: Failed to parse template "{device.accruals.bill_mini_wizard_qualified.completed"
+2024-08-18 22:50:36,644 : INFO : crash_reporter : Will not report crash as "report_crashes" mode is "never"
+2024-08-18 22:50:36,644 : INFO : root : MPF run loop ended.

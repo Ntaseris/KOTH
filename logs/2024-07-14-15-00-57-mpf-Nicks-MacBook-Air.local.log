@@ -1,0 +1,62 @@
+2024-07-14 15:00:57,944 : INFO : root : Loading config.
+2024-07-14 15:00:57,972 : INFO : ConfigProcessor : Config spec file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/config_spec.mpf_cache
+2024-07-14 15:00:57,972 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2024-07-14 15:00:57,972 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/mpfconfig.yaml.
+2024-07-14 15:00:57,978 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/mpfconfig.yaml
+2024-07-14 15:00:57,978 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/config/config.yaml.
+2024-07-14 15:00:57,982 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/config/config.yaml
+2024-07-14 15:00:57,983 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c166cef8060ffee16a35821bf698da85.mpf_cache
+2024-07-14 15:00:58,017 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/attract/config/attract.yaml.
+2024-07-14 15:00:58,017 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/attract/config/attract.yaml
+2024-07-14 15:00:58,017 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/config/attract.yaml.
+2024-07-14 15:00:58,018 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/config/attract.yaml
+2024-07-14 15:00:58,018 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6b31c5ac6ecbad948994a8204ea6b05b.mpf_cache
+2024-07-14 15:00:58,019 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/game/config/game.yaml.
+2024-07-14 15:00:58,019 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/game/config/game.yaml
+2024-07-14 15:00:58,019 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/fe612d1e66c8a96c19ba449d3748eeac.mpf_cache
+2024-07-14 15:00:58,019 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6b31c5ac6ecbad948994a8204ea6b05b.mpf_cache
+2024-07-14 15:00:58,019 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/bonus/config/bonus.yaml.
+2024-07-14 15:00:58,020 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/bonus/config/bonus.yaml
+2024-07-14 15:00:58,020 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/bonus/config/bonus.yaml.
+2024-07-14 15:00:58,020 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/bonus/config/bonus.yaml
+2024-07-14 15:00:58,020 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/8765227693ecd961e0504502a81255e0.mpf_cache
+2024-07-14 15:00:58,021 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/base/config/base.yaml.
+2024-07-14 15:00:58,022 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/base/config/base.yaml
+2024-07-14 15:00:58,023 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/b247728c74b4d81bcb2825e2b07062a7.mpf_cache
+2024-07-14 15:00:58,023 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/skillshot/config/skillshot.yaml.
+2024-07-14 15:00:58,024 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/skillshot/config/skillshot.yaml
+2024-07-14 15:00:58,024 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/f240f94f0b5d0f37ec4fd7571275a101.mpf_cache
+2024-07-14 15:00:58,024 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/match/config/match.yaml.
+2024-07-14 15:00:58,025 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/match/config/match.yaml
+2024-07-14 15:00:58,025 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/match/config/match.yaml.
+2024-07-14 15:00:58,026 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/match/config/match.yaml
+2024-07-14 15:00:58,026 : WARNING : ConfigProcessor : Config section 'slides' is deprecated in MPF 0.80 and will be ignored.
+2024-07-14 15:00:58,026 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c4409acfdf3ec94666e0adef48d55400.mpf_cache
+2024-07-14 15:00:58,026 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/BBQ_rollover/config/BBQ_rollover.yaml.
+2024-07-14 15:00:58,027 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/BBQ_rollover/config/BBQ_rollover.yaml
+2024-07-14 15:00:58,028 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6a2f50ed892485825cc04dc0a68eab9f.mpf_cache
+2024-07-14 15:00:58,028 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/beat_the_surfer/config/beat_the_surfer.yaml.
+2024-07-14 15:00:58,028 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/beat_the_surfer/config/beat_the_surfer.yaml
+2024-07-14 15:00:58,028 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/d58c58eb9fd1a2dc27f8acd255fb3761.mpf_cache
+2024-07-14 15:00:58,028 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/beer_can_named_desire/config/beer_can_named_desire.yaml.
+2024-07-14 15:00:58,029 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/beer_can_named_desire/config/beer_can_named_desire.yaml
+2024-07-14 15:00:58,029 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/07adfd310b3ef0e03c5cbc91527abb6c.mpf_cache
+2024-07-14 15:00:58,029 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/bill_bulk_and_the_body_buddies/config/bill_bulk_and_the_body_buddies.yaml.
+2024-07-14 15:00:58,029 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/bill_bulk_and_the_body_buddies/config/bill_bulk_and_the_body_buddies.yaml
+2024-07-14 15:00:58,029 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/12bd5247c3bf989b919364bdb7829769.mpf_cache
+2024-07-14 15:00:58,029 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/boomhauer_tbd/config/boomhauer_tbd.yaml.
+2024-07-14 15:00:58,030 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/boomhauer_tbd/config/boomhauer_tbd.yaml
+2024-07-14 15:00:58,030 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/362e08f51a1a1b7a0809dd52f9c83f83.mpf_cache
+2024-07-14 15:00:58,030 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/dale_tbd/config/dale_tbd.yaml.
+2024-07-14 15:00:58,030 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/dale_tbd/config/dale_tbd.yaml
+2024-07-14 15:00:58,030 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/e45e3bd39557ed8d0881194a7afab8f7.mpf_cache
+2024-07-14 15:00:58,030 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/duke_the_dolphin/config/duke_the_dolphin.yaml.
+2024-07-14 15:00:58,031 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/duke_the_dolphin/config/duke_the_dolphin.yaml
+2024-07-14 15:00:58,031 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/331d8d1a1bc190cae8c13495e1db372f.mpf_cache
+2024-07-14 15:00:58,031 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/hey_gladstone/config/hey_gladstone.yaml.
+2024-07-14 15:00:58,031 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/hey_gladstone/config/hey_gladstone.yaml
+2024-07-14 15:00:58,031 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/34853b7ed6df3aedbba239874ade5ac8.mpf_cache
+2024-07-14 15:00:58,031 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/the_heat_waver/config/the_heat_waver.yaml.
+2024-07-14 15:00:58,032 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/the_heat_waver/config/the_heat_waver.yaml
+2024-07-14 15:00:58,032 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/280fd64455d0d243a54ab4db98fbccbd.mpf_cache
+2024-07-14 15:00:58,032 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/mission_select/config/mission_select.yaml.

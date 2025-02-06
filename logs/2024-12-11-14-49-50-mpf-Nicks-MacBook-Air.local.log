@@ -1,0 +1,184 @@
+2024-12-11 14:49:50,570 : INFO : root : Loading config.
+2024-12-11 14:49:50,571 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2024-12-11 14:49:50,571 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c166cef8060ffee16a35821bf698da85.mpf_cache
+2024-12-11 14:49:50,604 : WARNING : ConfigProcessor : Config file in cache changed: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/config/attract.yaml
+2024-12-11 14:49:50,604 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/attract/config/attract.yaml.
+2024-12-11 14:49:50,606 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/attract/config/attract.yaml
+2024-12-11 14:49:50,606 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/config/attract.yaml.
+2024-12-11 14:49:50,607 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/config/attract.yaml
+2024-12-11 14:49:50,607 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6b31c5ac6ecbad948994a8204ea6b05b.mpf_cache
+2024-12-11 14:49:50,607 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/fe612d1e66c8a96c19ba449d3748eeac.mpf_cache
+2024-12-11 14:49:50,607 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6b31c5ac6ecbad948994a8204ea6b05b.mpf_cache
+2024-12-11 14:49:50,608 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/8765227693ecd961e0504502a81255e0.mpf_cache
+2024-12-11 14:49:50,608 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/b247728c74b4d81bcb2825e2b07062a7.mpf_cache
+2024-12-11 14:49:50,608 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/f240f94f0b5d0f37ec4fd7571275a101.mpf_cache
+2024-12-11 14:49:50,608 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6a2f50ed892485825cc04dc0a68eab9f.mpf_cache
+2024-12-11 14:49:50,609 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/d58c58eb9fd1a2dc27f8acd255fb3761.mpf_cache
+2024-12-11 14:49:50,609 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/07adfd310b3ef0e03c5cbc91527abb6c.mpf_cache
+2024-12-11 14:49:50,609 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/12bd5247c3bf989b919364bdb7829769.mpf_cache
+2024-12-11 14:49:50,609 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/362e08f51a1a1b7a0809dd52f9c83f83.mpf_cache
+2024-12-11 14:49:50,610 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/e0db17dd068fe6304aabdbeff00fac0d.mpf_cache
+2024-12-11 14:49:50,610 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/331d8d1a1bc190cae8c13495e1db372f.mpf_cache
+2024-12-11 14:49:50,610 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/d17a9ff77386e6f1439d0802ace1de07.mpf_cache
+2024-12-11 14:49:50,610 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/280fd64455d0d243a54ab4db98fbccbd.mpf_cache
+2024-12-11 14:49:50,611 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/0c0596ed8fbb40b6113901d21bdc0a39.mpf_cache
+2024-12-11 14:49:50,611 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/f521a0f834965d73920394ccceaa3c1c.mpf_cache
+2024-12-11 14:49:50,611 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/0fedc249e142fba0aaf46d9adc7061fa.mpf_cache
+2024-12-11 14:49:50,611 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c57745b2fe399992c4aedf0209f8acc9.mpf_cache
+2024-12-11 14:49:50,611 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/4d7707f845442344c77faa09114dd414.mpf_cache
+2024-12-11 14:49:50,612 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/13b622eeb34cc558f4c171e6faf49f20.mpf_cache
+2024-12-11 14:49:50,612 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/897ffb6d77163469c302d894201d7081.mpf_cache
+2024-12-11 14:49:50,612 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/51caa30b8c50b4dd14ddbf8a263fb4c6.mpf_cache
+2024-12-11 14:49:50,612 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/aa4dd12681abd3ba3467de4d4b71c6b2.mpf_cache
+2024-12-11 14:49:50,612 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/edf8b775a93855f849af0e2eff0a7bac.mpf_cache
+2024-12-11 14:49:50,612 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/a8808f7c3567c8d62dc12e9ad7d55d7c.mpf_cache
+2024-12-11 14:49:50,613 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/9437faed8d9c330c56f3b67b3f9b149d.mpf_cache
+2024-12-11 14:49:50,613 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/4bb31ac09fad15f35aa3bae4975f2b4d.mpf_cache
+2024-12-11 14:49:50,613 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/shows/./attract_light_show_4.yaml.
+2024-12-11 14:49:50,614 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/shows/./attract_light_show_4.yaml
+2024-12-11 14:49:50,614 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/70cafd8f66e0fa5a10c29223c3e76f56.mpf_cache
+2024-12-11 14:49:50,614 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/shows/./attract_light_show_5.yaml.
+2024-12-11 14:49:50,614 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/shows/./attract_light_show_5.yaml
+2024-12-11 14:49:50,614 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/1044f60e39cdd2646d0e1adc0cc2ebf9.mpf_cache
+2024-12-11 14:49:50,614 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/3230893c409a20e306ca451fa4be823d.mpf_cache
+2024-12-11 14:49:50,615 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/0b3582fe7cc46d8ee07a99f572d23c43.mpf_cache
+2024-12-11 14:49:50,615 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/3048ed2d7ea14eee3db896f6760aa474.mpf_cache
+2024-12-11 14:49:50,615 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/shows/./attract_light_show_6.yaml.
+2024-12-11 14:49:50,615 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/shows/./attract_light_show_6.yaml
+2024-12-11 14:49:50,616 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/8a2c3f97a6f4b3c8d8764c54a0c5a10e.mpf_cache
+2024-12-11 14:49:50,616 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/a14a120665a0ee9fd8a6e22274033983.mpf_cache
+2024-12-11 14:49:50,616 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/984de704eb69e43ca43e84d7915bfa21.mpf_cache
+2024-12-11 14:49:50,616 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/e151291736403f63db558dae8f86b9a6.mpf_cache
+2024-12-11 14:49:50,616 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/81ffe1796583077c7101a9635dd90e73.mpf_cache
+2024-12-11 14:49:50,616 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/04bdadfa8d860a04250393efd361f045.mpf_cache
+2024-12-11 14:49:50,616 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c82a0ecbb762ff6fe004ef757693d2ae.mpf_cache
+2024-12-11 14:49:50,617 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/3e9e76d166792f9c3bef3d1d86d97fda.mpf_cache
+2024-12-11 14:49:50,617 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/11a918d3152702ba265e96ad6f68ed20.mpf_cache
+2024-12-11 14:49:50,617 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/ceebadaab29f25c9a53ce189a8db5cf9.mpf_cache
+2024-12-11 14:49:50,617 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6681071d88be12817abd471747b65be6.mpf_cache
+2024-12-11 14:49:50,617 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/53492c928c9d654d5ba799a04e08560b.mpf_cache
+2024-12-11 14:49:50,617 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/1e8810dd57719f59c36cb9385b8ab313.mpf_cache
+2024-12-11 14:49:50,617 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/8812b35d126cadc26bfacccaebddfdef.mpf_cache
+2024-12-11 14:49:50,618 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/46635530aad202ef48b5607c669ff431.mpf_cache
+2024-12-11 14:49:50,618 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/dd284709607c13b5639917a19b41209a.mpf_cache
+2024-12-11 14:49:50,618 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/1f7f726388b0fb87373e6b87caf6dbbb.mpf_cache
+2024-12-11 14:49:50,618 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/32dec9b6457646e42ac79bded55dc112.mpf_cache
+2024-12-11 14:49:50,618 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/7f1d27c5dd24f1449bd8f54a4b390edb.mpf_cache
+2024-12-11 14:49:50,618 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/15d17e02f4541cb81c0776f97b8db0a5.mpf_cache
+2024-12-11 14:49:50,618 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/0a9cb7260d26760274024f443d38cc22.mpf_cache
+2024-12-11 14:49:50,618 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/deb753c2acdccb3c49ddc8f2a7e04ee6.mpf_cache
+2024-12-11 14:49:50,619 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/4a90c06755c4a5beef2ee4c243f54397.mpf_cache
+2024-12-11 14:49:50,619 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev1
+2024-12-11 14:49:50,619 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs/2024-12-11-14-49-50-mpf-Nicks-MacBook-Air.local.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None, 'no_sound': False, 'full_logfile_path': '/Users/nicktaseris/Desktop/Pinball/KOTH/logs/2024-12-11-14-49-50-mpf-Nicks-MacBook-Air.local.log'}
+2024-12-11 14:49:50,619 : INFO : Machine : MPF path: /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf
+2024-12-11 14:49:50,619 : INFO : Machine : Machine path: /Users/nicktaseris/Desktop/Pinball/KOTH
+2024-12-11 14:49:50,619 : INFO : Machine : Platform: darwin
+2024-12-11 14:49:50,619 : INFO : Machine : Python executable location: /Users/nicktaseris/mpfenv/bin/python3
+2024-12-11 14:49:50,619 : INFO : Machine : Python version: 3.9.13 (64-bit)
+2024-12-11 14:49:50,619 : INFO : Machine : Initializing MPF...
+2024-12-11 14:49:50,649 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,662 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,662 : INFO : EventManager : Event: ======'machine_var_player1_score'====== Args={'value': 91250250, 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,662 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev1', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,662 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev1, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,662 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.9.13', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,675 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'macOS-12.1-arm64-arm-64bit', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,675 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Darwin', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,675 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '21.2.0', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,675 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': 'Darwin Kernel Version 21.2.0: Sun Nov 28 20:29:10 PST 2021; root:xnu-8019.61.5~1/RELEASE_ARM64_T8101', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,675 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'arm64', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,675 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': '/Users/nicktaseris/Desktop/Pinball/KOTH/logs/2024-12-11-14-49-50-mpf-Nicks-MacBook-Air.local.log', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,675 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2024-12-11 14:49:50,700 : INFO : EventManager : Event: ======'drop_target_bank_strickland_bank_up'====== Args={}
+2024-12-11 14:49:50,701 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2024-12-11 14:49:50,701 : INFO : SwitchController : Found active switch: ('39', <Platform.SmartVirtual>) <switch.s_trough1>
+2024-12-11 14:49:50,701 : INFO : SwitchController : Found active switch: ('40', <Platform.SmartVirtual>) <switch.s_trough2>
+2024-12-11 14:49:50,701 : INFO : SwitchController : Found active switch: ('41', <Platform.SmartVirtual>) <switch.s_trough3>
+2024-12-11 14:49:50,701 : INFO : SwitchController : Found active switch: ('42', <Platform.SmartVirtual>) <switch.s_trough4>
+2024-12-11 14:49:50,701 : INFO : SwitchController : Found active switch: ('43', <Platform.SmartVirtual>) <switch.s_trough5>
+2024-12-11 14:49:50,701 : INFO : SwitchController : Found active switch: ('44', <Platform.SmartVirtual>) <switch.s_trough6>
+2024-12-11 14:49:50,710 : INFO : EventManager : Event: ======'machine_var_score1_label'====== Args={'value': 'GRAND CHAMPION', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,710 : INFO : EventManager : Event: ======'machine_var_score1_name'====== Args={'value': 'EML', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,710 : INFO : EventManager : Event: ======'machine_var_score1_value'====== Args={'value': 132398600, 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,710 : INFO : EventManager : Event: ======'machine_var_score2_label'====== Args={'value': 'HIGH SCORE 1', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,710 : INFO : EventManager : Event: ======'machine_var_score2_name'====== Args={'value': 'AAAAA', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,710 : INFO : EventManager : Event: ======'machine_var_score2_value'====== Args={'value': 91250250, 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,710 : INFO : EventManager : Event: ======'machine_var_score3_label'====== Args={'value': 'HIGH SCORE 2', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,710 : INFO : EventManager : Event: ======'machine_var_score3_name'====== Args={'value': 'CCC', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,710 : INFO : EventManager : Event: ======'machine_var_score3_value'====== Args={'value': 68340100, 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,710 : INFO : EventManager : Event: ======'machine_var_score4_label'====== Args={'value': 'HIGH SCORE 3', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,710 : INFO : EventManager : Event: ======'machine_var_score4_name'====== Args={'value': 'AAAAAAAAAAAAAA', 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,711 : INFO : EventManager : Event: ======'machine_var_score4_value'====== Args={'value': 62250100, 'prev_value': None, 'change': True}
+2024-12-11 14:49:50,711 : INFO : EventManager : Event: ======'bcp_connection_attempt'====== Args={'name': 'local_display', 'host': 'localhost', 'port': 5050}
+2024-12-11 14:49:50,712 : INFO : BCPClientSocket : Connecting BCP to 'local_display' at localhost:5050...
+2024-12-11 14:49:50,717 : INFO : BCPClientSocket : Connected BCP to 'local_display' localhost:5050
+2024-12-11 14:49:50,717 : INFO : EventManager : Event: ======'bcp_clients_connected'====== Args={}
+2024-12-11 14:49:50,718 : INFO : ball_device.bd_trough : BCH: Initial count: 6
+2024-12-11 14:49:50,718 : INFO : ball_device.bd_trough : State: idle
+2024-12-11 14:49:50,718 : INFO : ball_device.bd_plunger : BCH: Initial count: 0
+2024-12-11 14:49:50,719 : INFO : ball_device.bd_plunger : State: idle
+2024-12-11 14:49:50,719 : INFO : ball_device.bd_scoop : BCH: Initial count: 0
+2024-12-11 14:49:50,719 : INFO : ball_device.bd_scoop : State: idle
+2024-12-11 14:49:50,724 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2024-12-11 14:49:50,725 : ERROR : asyncio : Exception in callback EventManager._queue_task_done(<Task finishe...l_e_lane\']')>)
+handle: <Handle EventManager._queue_task_done(<Task finishe...l_e_lane\']')>)>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py", line 795, in _queue_task_done
+    future.result()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py", line 708, in _run_handlers_sequential
+    handler.callback(queue=queue, **merged_kwargs)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/show_controller.py", line 53, in _load_shows
+    self.machine.shows[show_name].load(show_config)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/assets/show.py", line 171, in load
+    self._process_step_actions(step, actions)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/assets/show.py", line 201, in _process_step_actions
+    raise e
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/assets/show.py", line 197, in _process_step_actions
+    self.machine.show_controller.show_players[key].validate_config_entry(value, self.name)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/config_players/device_config_player.py", line 56, in validate_config_entry
+    raise e
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/config_players/device_config_player.py", line 52, in validate_config_entry
+    self._validate_config_item(device, device_settings))
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/config_players/device_config_player.py", line 85, in _validate_config_item
+    devices = self._expand_device(device)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/config_players/device_config_player.py", line 114, in _expand_device
+    return self.raise_config_error(
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/logging.py", line 174, in raise_config_error
+    raise ConfigFileError(msg, error_no, self.log.name if self.log else "", context, self._url_base) \
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in light_player: Show "attract_light_show_4" >> Failed to load config player attract_light_show_4:lights with settings {'l_n_lane': 0, 'l_e_lane': 'red'} >> Could not find a lights device with name or tag l_e_lane, from list ['l_e_lane'] Error Code: CFE-light_player-101 (https://missionpinball.org/logs)
+2024-12-11 14:49:50,727 : INFO : Machine : Starting the main run loop.
+2024-12-11 14:49:50,727 : INFO : Machine : Shutting down...
+2024-12-11 14:49:50,727 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2024-12-11 14:49:51,730 : ERROR : Machine : Runtime Exception
+Traceback (most recent call last):
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/machine.py", line 793, in _run_loop
+    raise self._exception['exception']
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py", line 795, in _queue_task_done
+    future.result()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py", line 708, in _run_handlers_sequential
+    handler.callback(queue=queue, **merged_kwargs)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/show_controller.py", line 53, in _load_shows
+    self.machine.shows[show_name].load(show_config)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/assets/show.py", line 171, in load
+    self._process_step_actions(step, actions)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/assets/show.py", line 201, in _process_step_actions
+    raise e
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/assets/show.py", line 197, in _process_step_actions
+    self.machine.show_controller.show_players[key].validate_config_entry(value, self.name)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/config_players/device_config_player.py", line 56, in validate_config_entry
+    raise e
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/config_players/device_config_player.py", line 52, in validate_config_entry
+    self._validate_config_item(device, device_settings))
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/config_players/device_config_player.py", line 85, in _validate_config_item
+    devices = self._expand_device(device)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/config_players/device_config_player.py", line 114, in _expand_device
+    return self.raise_config_error(
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/logging.py", line 174, in raise_config_error
+    raise ConfigFileError(msg, error_no, self.log.name if self.log else "", context, self._url_base) \
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in light_player: Show "attract_light_show_4" >> Failed to load config player attract_light_show_4:lights with settings {'l_n_lane': 0, 'l_e_lane': 'red'} >> Could not find a lights device with name or tag l_e_lane, from list ['l_e_lane'] Error Code: CFE-light_player-101 (https://missionpinball.org/logs)
+2024-12-11 14:49:51,807 : INFO : crash_reporter : Will not report crash as "report_crashes" mode is "never"
+2024-12-11 14:49:51,807 : INFO : root : MPF run loop ended.

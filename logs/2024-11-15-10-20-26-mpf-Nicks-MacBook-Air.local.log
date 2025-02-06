@@ -1,0 +1,8 @@
+2024-11-15 10:20:26,939 : INFO : root : Loading config.
+2024-11-15 10:20:26,965 : INFO : ConfigProcessor : Config spec file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/config_spec.mpf_cache
+2024-11-15 10:20:26,965 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2024-11-15 10:20:26,966 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c166cef8060ffee16a35821bf698da85.mpf_cache
+2024-11-15 10:20:27,002 : WARNING : ConfigProcessor : Config file in cache changed: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/config/attract.yaml
+2024-11-15 10:20:27,002 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/attract/config/attract.yaml.
+2024-11-15 10:20:27,003 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/modes/attract/config/attract.yaml
+2024-11-15 10:20:27,003 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/attract/config/attract.yaml.

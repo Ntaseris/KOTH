@@ -1,0 +1,6 @@
+2024-07-15 08:44:37,417 : INFO : root : Loading config.
+2024-07-15 08:44:37,419 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2024-07-15 08:44:37,419 : WARNING : ConfigProcessor : Config file in cache changed: /Users/nicktaseris/Desktop/Pinball/KOTH/config/config.yaml
+2024-07-15 08:44:37,419 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/mpfconfig.yaml.
+2024-07-15 08:44:37,425 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/mpfconfig.yaml
+2024-07-15 08:44:37,425 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/config/config.yaml.

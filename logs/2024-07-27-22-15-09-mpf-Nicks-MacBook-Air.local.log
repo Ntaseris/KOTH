@@ -1,0 +1,108 @@
+2024-07-27 22:15:09,593 : INFO : root : Loading config.
+2024-07-27 22:15:09,595 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2024-07-27 22:15:09,595 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c166cef8060ffee16a35821bf698da85.mpf_cache
+2024-07-27 22:15:09,625 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6b31c5ac6ecbad948994a8204ea6b05b.mpf_cache
+2024-07-27 22:15:09,626 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/fe612d1e66c8a96c19ba449d3748eeac.mpf_cache
+2024-07-27 22:15:09,626 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6b31c5ac6ecbad948994a8204ea6b05b.mpf_cache
+2024-07-27 22:15:09,626 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/8765227693ecd961e0504502a81255e0.mpf_cache
+2024-07-27 22:15:09,626 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/b247728c74b4d81bcb2825e2b07062a7.mpf_cache
+2024-07-27 22:15:09,626 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/f240f94f0b5d0f37ec4fd7571275a101.mpf_cache
+2024-07-27 22:15:09,627 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c4409acfdf3ec94666e0adef48d55400.mpf_cache
+2024-07-27 22:15:09,627 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/6a2f50ed892485825cc04dc0a68eab9f.mpf_cache
+2024-07-27 22:15:09,627 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/d58c58eb9fd1a2dc27f8acd255fb3761.mpf_cache
+2024-07-27 22:15:09,627 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/07adfd310b3ef0e03c5cbc91527abb6c.mpf_cache
+2024-07-27 22:15:09,628 : WARNING : ConfigProcessor : Config file in cache changed: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/bill_bulk_and_the_body_buddies/config/bill_bulk_and_the_body_buddies.yaml
+2024-07-27 22:15:09,628 : INFO : ConfigProcessor : Loading config from file /Users/nicktaseris/Desktop/Pinball/KOTH/modes/bill_bulk_and_the_body_buddies/config/bill_bulk_and_the_body_buddies.yaml.
+2024-07-27 22:15:09,629 : INFO : ConfigProcessor : Loading config: /Users/nicktaseris/Desktop/Pinball/KOTH/modes/bill_bulk_and_the_body_buddies/config/bill_bulk_and_the_body_buddies.yaml
+2024-07-27 22:15:09,630 : INFO : ConfigProcessor : Config file cache created: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/12bd5247c3bf989b919364bdb7829769.mpf_cache
+2024-07-27 22:15:09,630 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/362e08f51a1a1b7a0809dd52f9c83f83.mpf_cache
+2024-07-27 22:15:09,630 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/e45e3bd39557ed8d0881194a7afab8f7.mpf_cache
+2024-07-27 22:15:09,630 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/331d8d1a1bc190cae8c13495e1db372f.mpf_cache
+2024-07-27 22:15:09,631 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/d17a9ff77386e6f1439d0802ace1de07.mpf_cache
+2024-07-27 22:15:09,631 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/280fd64455d0d243a54ab4db98fbccbd.mpf_cache
+2024-07-27 22:15:09,631 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/0c0596ed8fbb40b6113901d21bdc0a39.mpf_cache
+2024-07-27 22:15:09,631 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/2982e2d98506102244e9fa0f437a9fca.mpf_cache
+2024-07-27 22:15:09,632 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/0fedc249e142fba0aaf46d9adc7061fa.mpf_cache
+2024-07-27 22:15:09,632 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/c57745b2fe399992c4aedf0209f8acc9.mpf_cache
+2024-07-27 22:15:09,632 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/4d7707f845442344c77faa09114dd414.mpf_cache
+2024-07-27 22:15:09,632 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/3048ed2d7ea14eee3db896f6760aa474.mpf_cache
+2024-07-27 22:15:09,633 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/984de704eb69e43ca43e84d7915bfa21.mpf_cache
+2024-07-27 22:15:09,633 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/0a9cb7260d26760274024f443d38cc22.mpf_cache
+2024-07-27 22:15:09,633 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/deb753c2acdccb3c49ddc8f2a7e04ee6.mpf_cache
+2024-07-27 22:15:09,633 : INFO : ConfigProcessor : Loading config from cache: /var/folders/sv/d29kcl5x50v7vt1n6xb5jsd40000gn/T/4a90c06755c4a5beef2ee4c243f54397.mpf_cache
+2024-07-27 22:15:09,634 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev1
+2024-07-27 22:15:09,634 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs/2024-07-27-22-15-09-mpf-Nicks-MacBook-Air.local.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None, 'no_sound': False, 'full_logfile_path': '/Users/nicktaseris/Desktop/Pinball/KOTH/logs/2024-07-27-22-15-09-mpf-Nicks-MacBook-Air.local.log'}
+2024-07-27 22:15:09,634 : INFO : Machine : MPF path: /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf
+2024-07-27 22:15:09,634 : INFO : Machine : Machine path: /Users/nicktaseris/Desktop/Pinball/KOTH
+2024-07-27 22:15:09,634 : INFO : Machine : Platform: darwin
+2024-07-27 22:15:09,634 : INFO : Machine : Python executable location: /Users/nicktaseris/mpfenv/bin/python3
+2024-07-27 22:15:09,634 : INFO : Machine : Python version: 3.9.13 (64-bit)
+2024-07-27 22:15:09,634 : INFO : Machine : Initializing MPF...
+2024-07-27 22:15:09,662 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,668 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,668 : INFO : EventManager : Event: ======'machine_var_player1_score'====== Args={'value': 175300, 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,668 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev1', 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,668 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev1, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,668 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.9.13', 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,676 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'macOS-12.1-arm64-arm-64bit', 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,676 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Darwin', 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,676 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '21.2.0', 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,676 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': 'Darwin Kernel Version 21.2.0: Sun Nov 28 20:29:10 PST 2021; root:xnu-8019.61.5~1/RELEASE_ARM64_T8101', 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,676 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'arm64', 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,676 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': '/Users/nicktaseris/Desktop/Pinball/KOTH/logs/2024-07-27-22-15-09-mpf-Nicks-MacBook-Air.local.log', 'prev_value': None, 'change': True}
+2024-07-27 22:15:09,676 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2024-07-27 22:15:09,697 : ERROR : ConfigValidator : Your config contains a value for the setting "mode:bill_bulk_and_the_body_buddies:shots:shot_right_ramp:events_when_complete", but this is not a valid setting name.
+2024-07-27 22:15:09,697 : ERROR : asyncio : Exception in callback EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...tting name.')>) at /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py:124
+handle: <Handle EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...tting name.')>) at /Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py:124>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py", line 127, in _async_handler_done
+    future.result()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/device_manager.py", line 89, in _load_device_modules
+    await self.machine.mode_controller.load_mode_devices()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/mode_controller.py", line 86, in load_mode_devices
+    await mode.load_mode_devices()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/mode.py", line 438, in load_mode_devices
+    settings = device.validate_and_parse_config(settings, True, "mode:" + self.name)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/devices/shot.py", line 72, in validate_and_parse_config
+    config = super().validate_and_parse_config(config, is_mode_config, debug_prefix)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/device.py", line 108, in validate_and_parse_config
+    self.machine.config_validator.validate_config(
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/config_validator.py", line 164, in validate_config
+    return self._validate_config(config_spec, source, base_spec=base_spec, add_missing_keys=add_missing_keys,
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/config_validator.py", line 177, in _validate_config
+    self.check_for_invalid_sections(this_spec, source, validation_failure_info)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/config_validator.py", line 345, in check_for_invalid_sections
+    raise ConfigFileError('Your config contains a value for the '
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in ConfigValidator: Your config contains a value for the setting "mode:bill_bulk_and_the_body_buddies:shots:shot_right_ramp:events_when_complete", but this is not a valid setting name. Error Code: CFE-ConfigValidator-2 (https://missionpinball.org/logs)
+2024-07-27 22:15:09,700 : INFO : Machine : Starting the main run loop.
+2024-07-27 22:15:09,700 : INFO : Machine : Shutting down...
+2024-07-27 22:15:09,700 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2024-07-27 22:15:10,702 : ERROR : Machine : Runtime Exception
+Traceback (most recent call last):
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/machine.py", line 793, in _run_loop
+    raise self._exception['exception']
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/events.py", line 127, in _async_handler_done
+    future.result()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/device_manager.py", line 89, in _load_device_modules
+    await self.machine.mode_controller.load_mode_devices()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/mode_controller.py", line 86, in load_mode_devices
+    await mode.load_mode_devices()
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/mode.py", line 438, in load_mode_devices
+    settings = device.validate_and_parse_config(settings, True, "mode:" + self.name)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/devices/shot.py", line 72, in validate_and_parse_config
+    config = super().validate_and_parse_config(config, is_mode_config, debug_prefix)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/device.py", line 108, in validate_and_parse_config
+    self.machine.config_validator.validate_config(
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/config_validator.py", line 164, in validate_config
+    return self._validate_config(config_spec, source, base_spec=base_spec, add_missing_keys=add_missing_keys,
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/config_validator.py", line 177, in _validate_config
+    self.check_for_invalid_sections(this_spec, source, validation_failure_info)
+  File "/Users/nicktaseris/mpfenv/lib/python3.9/site-packages/mpf/core/config_validator.py", line 345, in check_for_invalid_sections
+    raise ConfigFileError('Your config contains a value for the '
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in ConfigValidator: Your config contains a value for the setting "mode:bill_bulk_and_the_body_buddies:shots:shot_right_ramp:events_when_complete", but this is not a valid setting name. Error Code: CFE-ConfigValidator-2 (https://missionpinball.org/logs)
+2024-07-27 22:15:10,774 : INFO : crash_reporter : Will not report crash as "report_crashes" mode is "never"
+2024-07-27 22:15:10,774 : INFO : root : MPF run loop ended.
